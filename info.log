@@ -1,0 +1,2 @@
+INFO	2022/09/23 19:40:37 Starting server on :4000
+ERROR	2022/09/23 19:40:37 main.go:46: listen tcp :4000: bind: address already in use
