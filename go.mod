@@ -1,4 +1,4 @@
-module github.com/adamuonu/snippetbox
+module snippetbox.adamuonu
 
 go 1.19
 
